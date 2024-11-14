@@ -46,3 +46,6 @@ This is due wasm initialization. We will fix this in the near future.
 3. [Emai Wallet - API Documentation](https://zkemail.gitbook.io/zk-email/email-wallet/api-documentation)
 4. [Proof of Twitter: ZK Email Demo](https://twitter.prove.email/)
 5. [Building Proof of Twitter using ZK Email](https://prove.email/blog/twitter)
+6. [ZKEmail - Blog](https://prove.email/blog)
+7. [ZKEmail の概要がまとめられたブログ](https://blog.aayushg.com/zkemail/)
+8. [ZKEmail - Documentation](https://docs.prove.email/introduction)
