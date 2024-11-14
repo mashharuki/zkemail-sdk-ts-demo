@@ -38,3 +38,11 @@ public:  {
 
 The sdk works in the browser and in Node, but NOT on Next.js server side yet.
 This is due wasm initialization. We will fix this in the near future.
+
+### 参考文献
+
+1. [Registry - ZKEmail](https://registry.zk.email/)
+2. [新しいパターンを作成する](https://zkemail.gitbook.io/zk-email/zk-email-sdk/creating-a-new-pattern)
+3. [Emai Wallet - API Documentation](https://zkemail.gitbook.io/zk-email/email-wallet/api-documentation)
+4. [Proof of Twitter: ZK Email Demo](https://twitter.prove.email/)
+5. [Building Proof of Twitter using ZK Email](https://prove.email/blog/twitter)

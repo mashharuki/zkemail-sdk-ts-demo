@@ -2,9 +2,12 @@ import zkeSDK from "@zk-email/sdk";
 import fs from "fs/promises";
 
 // Copy slug from UI homepage
+// ここには、ZK Email SDK Registryで作成した ブループリントのスラッグを入れてください
 const blueprintSlug = "Bisht13/SuccinctZKResidencyInvite@v1"
+// const blueprintSlug = "mashharuki/devcon-workshop@v1"
 
 async function main() {
+  // ZKEmail 用の SDKを初期化
   const sdk = zkeSDK();
 
   // Get an instance of Blueprint
